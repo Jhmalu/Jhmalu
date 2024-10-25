@@ -6,7 +6,7 @@
 
 ---
 
-### 🌟 Profesion
+### 🌟 Profesión
 Soy programador industrial con 15 años de experiencia en la creación y automatización de soluciones para distintos sectores. Mi objetivo es ampliar mis conocimientos en informática y tecnología para implementar nuevas soluciones innovadoras en la industria, mejorando la eficiencia y adaptándome a las exigencias de la Industria 4.0. Estoy constantemente aprendiendo sobre nuevas tecnologías para integrarlas en procesos industriales y optimizar tanto el rendimiento como la calidad de los sistemas automáticos.
 
 ---
