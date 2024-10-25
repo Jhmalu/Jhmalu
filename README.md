@@ -1,3 +1,8 @@
+#Titulo
+
+## Seccion 1
+
+
 - 👋 Hola, soy joaquin, estudiante de DAW
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,7 +11,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-Jhmalu/Jhmalu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Seccion 2
