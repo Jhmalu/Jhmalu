@@ -1,5 +1,5 @@
 # 👋 Buenas!! Bienvenido a mi Perfil
-## MI nombre es Joaquin
+## Mi nombre es Joaquín
 
 
 
