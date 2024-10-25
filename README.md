@@ -30,7 +30,7 @@ Soy programador industrial con 15 años de experiencia en la creación y automat
 
 ---
 
-## 🔧 Tecnologías mas utilizadas en estornos de Desarrollo
+## 🔧 Tecnologías mas utilizadas en estornos de Desarrollo que me gustaria aprender
 
 ### 1. Lenguajes de Programación
 - ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) **JavaScript**
